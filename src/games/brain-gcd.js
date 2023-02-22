@@ -24,4 +24,4 @@ const gamestartergcd = () => {
   starter(game, rule);
 };
 
-export default gamestartergcd
+export default gamestartergcd;
