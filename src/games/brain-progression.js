@@ -8,7 +8,7 @@ const getProgression = (start, step, length) => {
   for (let i = 1; i < length; i += 1) {
     progression.push(start + step * i);
   }
-  return progression;
+  return progression
 };
 
 const game = () => {

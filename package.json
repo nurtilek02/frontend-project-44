@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/nurtilek02/frontend-project-44.git"
   },
-  "author": "",
+  "author": "Nurtilek Azhibekov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nurtilek02/frontend-project-44/issues"
@@ -22,7 +22,7 @@
     "brain-even": "bin/brain-even.js",
     "brain-calc": "bin/brain-calc.js",
     "brain-gcd": "bin/brain-gcd.js",
-    "brain-progression": "bin/brain-progression.js",
+    "brain-progression": "bin/brain-progression.js"
     "brain-prime": "bin/brain-prime.js"
   },
   "dependencies": {
